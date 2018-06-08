@@ -1,0 +1,39 @@
+#partie1 {
+    background-image: url("img/background1.jpg");
+    height: 600px;
+}
+
+#partie1 h1{
+    font-weight: bold;
+    font-size: 500%;
+}
+
+.centrer {
+    height: 600px;
+}
+
+.agrandir_paragraphe {
+    font-size: 150%; 
+}
+
+#projet img{
+    height: auto;
+    width: 100px;
+}
+
+#a_propos_moi img{
+    height: 200px;
+    width: auto;
+}
+
+.rotate90 {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
+.article_2 {
+    background-image: url("img/background1.jpg");
+}
